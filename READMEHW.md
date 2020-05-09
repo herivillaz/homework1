@@ -1,4 +1,5 @@
-CHNAGES ON THE FILE
+#CHANGES ON THE FILE
+```
 
 Change title!
 Change name OF SECTION to header
@@ -8,3 +9,4 @@ ADD alt to each img
 Change div to aside.
 
 Heribert Villazana
+```
